@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student at the University of Pretoria. I am interested in backend work, especially work with databases.
+I am a computer science student at the University of Pretoria. I am interested in backend work and Machine Learning.
 
 
 ## 🌐 Socials:
